@@ -14,7 +14,7 @@ It documents my progress starting in March 2026.
 
 ---
 
-## 📂 Contents
+## Contents
 
 * Beginner Python exercises
 * Mini projects
@@ -23,7 +23,7 @@ It documents my progress starting in March 2026.
 
 ---
 
-## 🛠 Skills Used
+## Skills Used
 
 * Python basics
 * Variables
